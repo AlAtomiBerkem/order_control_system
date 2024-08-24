@@ -1,0 +1,16 @@
+body {
+    background-image: url('../images/general_page_background.jpg');
+    background-size: cover; /* Изображение будет масштабироваться, чтобы покрыть весь экран */
+    background-repeat: no-repeat; /* Изображение не будет повторяться */
+    background-position: center; /* Изображение будет центрировано */
+    margin: 0; /* Убираем отступы по умолчанию */
+    padding: 0; /* Убираем отступы по умолчанию */
+    height: 100vh; /* Высота экрана */
+    width: 100vw; /* Ширина экрана */
+    color: white; /* Изменяем цвет текста */
+    font-family: Arial, sans-serif;
+}
+
+#orders_container {
+    background-color: white; /* Изменяем задний фон на белый */
+}
