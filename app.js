@@ -25,3 +25,6 @@ app.listen(PORT, async () => {
   await db.sequelize.authenticate();
   console.log("Database successfully connected.");
 });
+
+
+
